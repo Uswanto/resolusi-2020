@@ -4,5 +4,10 @@ Resolusi Web Development
   * CSS
   * Javascript
   * Framework React.js
+  * Framework Vue.js
+  * CSS Frameworks
 - belajar back-end
+  * PHP
+  * Node.js
 - belajar progressive web apps (PWA)
+- belajar fullstack
