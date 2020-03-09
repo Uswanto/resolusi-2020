@@ -1,6 +1,6 @@
 Resolusi Tahun 2020
-- Belajar web development baik front-end maupun back-end
 - Belajar mobile development menggunakan framework react native dan flutter
 - Belajar mobile programming native iOS (Swift) dan Android (Kotlin)
 - Mengikuti kursus online dan sertifikasi kompetensi
 - Develop startup erary
+- Berkolaborasi dengan banyak expert
