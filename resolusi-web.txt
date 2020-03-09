@@ -1,0 +1,7 @@
+Resolusi Web Development
+
+- belajar front-end
+  * CSS
+  * Javascript
+  * Framework React.js
+- belajar back-end
