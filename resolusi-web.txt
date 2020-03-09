@@ -5,3 +5,4 @@ Resolusi Web Development
   * Javascript
   * Framework React.js
 - belajar back-end
+- belajar progressive web apps (PWA)
