@@ -10,6 +10,7 @@ Resolusi Web Development
   * CSS Frameworks
 - belajar back-end
   * PHP
-  * Node.js
+  * Javascript
+  * Go
 - belajar progressive web apps (PWA)
 - belajar fullstack
