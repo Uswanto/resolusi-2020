@@ -3,6 +3,7 @@ Resolusi Web Development
 - belajar front-end
   * CSS
   * Javascript
-  * Framework React.js
-- belajar back-end
+  * Framework Javascript
+    ^ Angular
+    ^ React.js
 - belajar progressive web apps (PWA)
