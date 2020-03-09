@@ -5,6 +5,7 @@ Resolusi Web Development
   * Javascript
   * Framework React.js
   * Framework Vue.js
+  * CSS Frameworks
 - belajar back-end
   * PHP
   * Node.js
